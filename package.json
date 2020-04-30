@@ -5,7 +5,7 @@
   "author": "Kaitlyn Hennessy",
   "dependencies": {
     "fs": "0.0.1-security",
-    "jquery": "^3.4.0",
+    "jquery": "^3.5.0",
     "utf-8": "^2.0.0"
   }
 }
